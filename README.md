@@ -1,4 +1,5 @@
-# My Learnings As A Bytewise Fellow
+# Bytewise's Deep Learning Fellowship Track
+## My Learnings As A Bytewise Fellow
 >## *This repository contains all the tasks assigned to me by my fellowship lead.*
 ### Resources used in tasks:
 |Task|Resource|Link|
