@@ -1,0 +1,3 @@
+In Python you can have dynamic lists
+In Python you can do almost anything you want very intuitively 
+In Python you can write 5 lines of code to do something that would take 50 lines of code in another language
