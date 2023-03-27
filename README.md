@@ -6,3 +6,4 @@
 |---|---|---|
 |Task&nbsp;1<br>Task 2|Learn Version Control With Git by Tobias Günther|https://drive.google.com/file/d/1HPvzEhvZhjOi52XcX7BpsZAx6-AkdWWa/view|
 |Task 3<br>Task 4<br>Task 5<br>Task 6<br> Task 7<br> Task 8<br> Task 9 |Python Crash Course by Eric Matthes|https://drive.google.com/file/d/12HEIuGU0NRgJutUQkMUhGKo-Nr_YWYdq/view|
+|Task&nbsp;10|Python for Data Analysis by Wes McKinney|https://drive.google.com/file/d/1ILp88f3u_KgJ_nlhTSsAVGdmZlICGhhd/view?usp=share_link|
